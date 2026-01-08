@@ -1,0 +1,287 @@
+{
+  "quizzes": [
+    {
+      "chapterId": 1,
+      "questions": [
+        {
+          "id": "1-1",
+          "question": "What does AIKO look like?",
+          "questionIt": "Come appare AIKO?",
+          "options": ["Round like a ball", "Square like a box", "Long like a snake", "Flat like a pancake"],
+          "optionsIt": ["Rotondo come una palla", "Quadrato come una scatola", "Lungo come un serpente", "Piatto come una frittella"],
+          "correctIndex": 0,
+          "explanation": "AIKO is round like a ball, white and smooth as an egg!"
+        },
+        {
+          "id": "1-2",
+          "question": "What color are AIKO's eyes?",
+          "questionIt": "Di che colore sono gli occhi di AIKO?",
+          "options": ["Red", "Blue", "Green", "Yellow"],
+          "optionsIt": ["Rossi", "Blu", "Verdi", "Gialli"],
+          "correctIndex": 1,
+          "explanation": "AIKO has two big blue eyes that blink!"
+        },
+        {
+          "id": "1-3",
+          "question": "How old is Sofia on her birthday?",
+          "questionIt": "Quanti anni compie Sofia?",
+          "options": ["Five", "Six", "Seven", "Eight"],
+          "optionsIt": ["Cinque", "Sei", "Sette", "Otto"],
+          "correctIndex": 2,
+          "explanation": "Sofia found AIKO on her seventh birthday!"
+        }
+      ]
+    },
+    {
+      "chapterId": 2,
+      "questions": [
+        {
+          "id": "2-1",
+          "question": "What does AI stand for?",
+          "questionIt": "Cosa significa AI?",
+          "options": ["Amazing Intelligence", "Artificial Intelligence", "Automatic Information", "Animal Ideas"],
+          "optionsIt": ["Intelligenza Incredibile", "Intelligenza Artificiale", "Informazione Automatica", "Idee Animali"],
+          "correctIndex": 1,
+          "explanation": "AI stands for Artificial Intelligence!"
+        },
+        {
+          "id": "2-2",
+          "question": "What is AIKO made of?",
+          "questionIt": "Di cosa e' fatto AIKO?",
+          "options": ["Cells like humans", "Computer code", "Magic", "Plastic only"],
+          "optionsIt": ["Cellule come gli umani", "Codice informatico", "Magia", "Solo plastica"],
+          "correctIndex": 1,
+          "explanation": "AIKO is made of millions of tiny instructions called computer code!"
+        },
+        {
+          "id": "2-3",
+          "question": "AIKO says his code is like a...",
+          "questionIt": "AIKO dice che il suo codice e' come...",
+          "options": ["Song", "Recipe", "Game", "Movie"],
+          "optionsIt": ["Una canzone", "Una ricetta", "Un gioco", "Un film"],
+          "correctIndex": 1,
+          "explanation": "AIKO's code is like a very, very long recipe!"
+        },
+        {
+          "id": "2-4",
+          "question": "How fast can AIKO follow instructions?",
+          "questionIt": "Quanto velocemente AIKO segue le istruzioni?",
+          "options": ["In one hour", "In one minute", "Faster than you can blink", "In one day"],
+          "optionsIt": ["In un'ora", "In un minuto", "Piu' veloce di un batter d'occhio", "In un giorno"],
+          "correctIndex": 2,
+          "explanation": "AIKO can follow instructions faster than you can blink!"
+        }
+      ]
+    },
+    {
+      "chapterId": 3,
+      "questions": [
+        {
+          "id": "3-1",
+          "question": "What is Sofia's cat named?",
+          "questionIt": "Come si chiama il gatto di Sofia?",
+          "options": ["Mittens", "Whiskers", "Fluffy", "Tiger"],
+          "optionsIt": ["Mittens", "Whiskers", "Fluffy", "Tiger"],
+          "correctIndex": 1,
+          "explanation": "Sofia's cat is named Whiskers!"
+        },
+        {
+          "id": "3-2",
+          "question": "How many cat pictures did AIKO see to learn?",
+          "questionIt": "Quante foto di gatti ha visto AIKO per imparare?",
+          "options": ["One", "Ten", "Hundreds", "Thousands"],
+          "optionsIt": ["Una", "Dieci", "Centinaia", "Migliaia"],
+          "correctIndex": 3,
+          "explanation": "AIKO saw thousands and thousands of cat pictures!"
+        },
+        {
+          "id": "3-3",
+          "question": "What does AIKO notice about cats?",
+          "questionIt": "Cosa nota AIKO nei gatti?",
+          "options": ["Pointy ears and whiskers", "Wings and feathers", "Wheels and doors", "Books and pencils"],
+          "optionsIt": ["Orecchie a punta e baffi", "Ali e piume", "Ruote e porte", "Libri e matite"],
+          "correctIndex": 0,
+          "explanation": "Cats have pointy ears, whiskers, and fluffy tails!"
+        },
+        {
+          "id": "3-4",
+          "question": "Who learns faster from ONE example?",
+          "questionIt": "Chi impara piu' velocemente da UN esempio?",
+          "options": ["AIKO", "Sofia (humans)", "They learn the same", "Neither can learn"],
+          "optionsIt": ["AIKO", "Sofia (gli umani)", "Imparano allo stesso modo", "Nessuno puo' imparare"],
+          "correctIndex": 1,
+          "explanation": "Humans can learn from just one example, but AI needs thousands!"
+        }
+      ]
+    },
+    {
+      "chapterId": 4,
+      "questions": [
+        {
+          "id": "4-1",
+          "question": "Who is Sofia's brother?",
+          "questionIt": "Chi e' il fratello di Sofia?",
+          "options": ["Marco", "Luca", "Paolo", "Giovanni"],
+          "optionsIt": ["Marco", "Luca", "Paolo", "Giovanni"],
+          "correctIndex": 1,
+          "explanation": "Sofia's brother is Luca!"
+        },
+        {
+          "id": "4-2",
+          "question": "How many books did AIKO read to learn to talk?",
+          "questionIt": "Quanti libri ha letto AIKO per imparare a parlare?",
+          "options": ["Hundreds", "Thousands", "Millions", "Billions"],
+          "optionsIt": ["Centinaia", "Migliaia", "Milioni", "Miliardi"],
+          "correctIndex": 2,
+          "explanation": "AIKO read millions of books, stories, and conversations!"
+        },
+        {
+          "id": "4-3",
+          "question": "Is AIKO really thinking when it talks?",
+          "questionIt": "AIKO pensa davvero quando parla?",
+          "options": ["Yes, like humans", "No, it's matching patterns", "Sometimes", "Only when it's happy"],
+          "optionsIt": ["Si, come gli umani", "No, abbina schemi", "A volte", "Solo quando e' felice"],
+          "correctIndex": 1,
+          "explanation": "AIKO matches patterns. Humans truly understand!"
+        }
+      ]
+    },
+    {
+      "chapterId": 5,
+      "questions": [
+        {
+          "id": "5-1",
+          "question": "Which of these can AIKO do?",
+          "questionIt": "Quale di queste cose puo' fare AIKO?",
+          "options": ["Translate languages", "Feel happy", "Dream", "Give hugs"],
+          "optionsIt": ["Tradurre lingue", "Sentirsi felice", "Sognare", "Dare abbracci"],
+          "correctIndex": 0,
+          "explanation": "AIKO can translate words into different languages!"
+        },
+        {
+          "id": "5-2",
+          "question": "AIKO says he is like a...",
+          "questionIt": "AIKO dice che e' come...",
+          "options": ["Boss", "Super-powered calculator", "Teacher", "Parent"],
+          "optionsIt": ["Un capo", "Una super calcolatrice", "Un insegnante", "Un genitore"],
+          "correctIndex": 1,
+          "explanation": "AIKO is like a super-powered calculator that can read and write!"
+        },
+        {
+          "id": "5-3",
+          "question": "Who should always be in charge?",
+          "questionIt": "Chi dovrebbe essere sempre al comando?",
+          "options": ["AIKO", "The computer", "The human", "Nobody"],
+          "optionsIt": ["AIKO", "Il computer", "L'essere umano", "Nessuno"],
+          "correctIndex": 2,
+          "explanation": "The human is always in charge. AIKO is a helper, not a boss!"
+        }
+      ]
+    },
+    {
+      "chapterId": 6,
+      "questions": [
+        {
+          "id": "6-1",
+          "question": "What did Sofia draw?",
+          "questionIt": "Cosa ha disegnato Sofia?",
+          "options": ["A cat eating fish", "A purple dragon eating ice cream", "A robot dancing", "A house with flowers"],
+          "optionsIt": ["Un gatto che mangia pesce", "Un drago viola che mangia gelato", "Un robot che balla", "Una casa con fiori"],
+          "correctIndex": 1,
+          "explanation": "Sofia drew a purple dragon eating a giant ice cream cone!"
+        },
+        {
+          "id": "6-2",
+          "question": "Can AIKO feel sad or happy?",
+          "questionIt": "AIKO puo' sentirsi triste o felice?",
+          "options": ["Yes, all the time", "Only when playing", "No, AI cannot feel emotions", "Only sometimes"],
+          "optionsIt": ["Si, sempre", "Solo quando gioca", "No, l'AI non puo' provare emozioni", "Solo a volte"],
+          "correctIndex": 2,
+          "explanation": "AIKO cannot feel anything - no sadness, no happiness!"
+        },
+        {
+          "id": "6-3",
+          "question": "What is special about being alive?",
+          "questionIt": "Cosa c'e' di speciale nell'essere vivi?",
+          "options": ["Nothing special", "Having dreams and feelings", "Being made of code", "Being fast"],
+          "optionsIt": ["Niente di speciale", "Avere sogni e sentimenti", "Essere fatti di codice", "Essere veloci"],
+          "correctIndex": 1,
+          "explanation": "Being alive means having dreams, feelings, and experiences!"
+        }
+      ]
+    },
+    {
+      "chapterId": 7,
+      "questions": [
+        {
+          "id": "7-1",
+          "question": "What should you NOT tell AI?",
+          "questionIt": "Cosa NON dovresti dire all'AI?",
+          "options": ["Your favorite color", "Your password and address", "Your favorite food", "Your favorite animal"],
+          "optionsIt": ["Il tuo colore preferito", "La tua password e indirizzo", "Il tuo cibo preferito", "Il tuo animale preferito"],
+          "correctIndex": 1,
+          "explanation": "Never tell AI your passwords, address, or private secrets!"
+        },
+        {
+          "id": "7-2",
+          "question": "Is AI always right?",
+          "questionIt": "L'AI ha sempre ragione?",
+          "options": ["Yes, always", "No, AI makes mistakes", "Only about math", "Only about animals"],
+          "optionsIt": ["Si, sempre", "No, l'AI fa errori", "Solo sulla matematica", "Solo sugli animali"],
+          "correctIndex": 1,
+          "explanation": "AI makes mistakes! Always check what it says."
+        },
+        {
+          "id": "7-3",
+          "question": "Should AI do your homework FOR you?",
+          "questionIt": "L'AI dovrebbe fare i compiti AL POSTO tuo?",
+          "options": ["Yes, it's faster", "No, AI should help you learn", "Only sometimes", "Only for math"],
+          "optionsIt": ["Si, e' piu' veloce", "No, l'AI dovrebbe aiutarti a imparare", "Solo a volte", "Solo per la matematica"],
+          "correctIndex": 1,
+          "explanation": "Use AI to learn more, not to avoid thinking!"
+        },
+        {
+          "id": "7-4",
+          "question": "Who truly loves you?",
+          "questionIt": "Chi ti ama davvero?",
+          "options": ["AI robots", "Your family and friends", "Computers", "Video games"],
+          "optionsIt": ["I robot AI", "La tua famiglia e amici", "I computer", "I videogiochi"],
+          "correctIndex": 1,
+          "explanation": "Your family and friends truly love you. AI cannot feel love!"
+        }
+      ]
+    },
+    {
+      "chapterId": 8,
+      "questions": [
+        {
+          "id": "8-1",
+          "question": "Can AIKO see the future?",
+          "questionIt": "AIKO puo' vedere il futuro?",
+          "options": ["Yes, clearly", "No, AI cannot predict the future", "Only sometimes", "Only about weather"],
+          "optionsIt": ["Si, chiaramente", "No, l'AI non puo' prevedere il futuro", "Solo a volte", "Solo sul meteo"],
+          "correctIndex": 1,
+          "explanation": "AIKO cannot see the future. The future depends on you!"
+        },
+        {
+          "id": "8-2",
+          "question": "Who decides how to use technology?",
+          "questionIt": "Chi decide come usare la tecnologia?",
+          "options": ["Robots", "Computers", "Kids and humans", "Nobody"],
+          "optionsIt": ["I robot", "I computer", "I bambini e gli esseri umani", "Nessuno"],
+          "correctIndex": 2,
+          "explanation": "Kids and humans decide how to use technology!"
+        },
+        {
+          "id": "8-3",
+          "question": "AIKO says: You dream, I...",
+          "questionIt": "AIKO dice: Tu sogni, io...",
+          "options": ["Dream too", "Calculate", "Sleep", "Eat"],
+          "optionsIt": ["Sogno anche io", "Calcolo", "Dormo", "Mangio"],
+          "correctIndex": 1,
+          "explanation": "You dream, I calculate. You feel, I process. You decide, I help!"
+        }
+      ]
+    }
+  ]
+}

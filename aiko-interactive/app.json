@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "AIKO - AI for Kids",
+    "slug": "aiko-interactive",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/chapters/00-cover.jpg",
+    "scheme": "aiko",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/chapters/00-cover.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#faf8f5"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.freeriverhouse.aiko"
+    },
+    "android": {
+      "package": "com.freeriverhouse.aiko",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/chapters/00-cover.jpg",
+        "backgroundColor": "#faf8f5"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/chapters/00-cover.jpg"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "aiko-interactive"
+      }
+    },
+    "owner": "freeriverhouse"
+  }
+}

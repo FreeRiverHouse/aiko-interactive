@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Moonlight",
+    "slug": "moonlight",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#1a1a2e"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.freeriverhouse.moonlight"
+    },
+    "android": {
+      "package": "com.freeriverhouse.moonlight"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
