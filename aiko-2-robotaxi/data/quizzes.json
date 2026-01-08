@@ -1,0 +1,498 @@
+[
+  {
+    "chapterId": 1,
+    "questions": [
+      {
+        "question": "What is a robotaxi?",
+        "questionIt": "Cos'è un robotaxi?",
+        "options": [
+          "A robot that becomes a taxi driver",
+          "A car that drives itself using AI",
+          "A flying car from the future",
+          "A taxi painted like a robot"
+        ],
+        "optionsIt": [
+          "Un robot che diventa tassista",
+          "Una macchina che si guida da sola usando l'AI",
+          "Una macchina volante del futuro",
+          "Un taxi dipinto come un robot"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A robotaxi is a car that drives itself using Artificial Intelligence. No human driver is needed!",
+        "explanationIt": "Un robotaxi è una macchina che si guida da sola usando l'Intelligenza Artificiale. Non serve un autista umano!"
+      },
+      {
+        "question": "What did Sofia notice when the car arrived?",
+        "questionIt": "Cosa notò Sofia quando arrivò la macchina?",
+        "options": [
+          "It was very loud",
+          "It was painted with flowers",
+          "There was no one driving",
+          "It had wings"
+        ],
+        "optionsIt": [
+          "Era molto rumorosa",
+          "Era dipinta con fiori",
+          "Non c'era nessuno che guidava",
+          "Aveva le ali"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sofia was surprised to see that no one was driving the car - it was driving itself!",
+        "explanationIt": "Sofia fu sorpresa di vedere che nessuno guidava la macchina - si guidava da sola!"
+      },
+      {
+        "question": "What kind of intelligence does a robotaxi use?",
+        "questionIt": "Che tipo di intelligenza usa un robotaxi?",
+        "options": [
+          "Magic intelligence",
+          "Human intelligence",
+          "Artificial Intelligence",
+          "Animal intelligence"
+        ],
+        "optionsIt": [
+          "Intelligenza magica",
+          "Intelligenza umana",
+          "Intelligenza Artificiale",
+          "Intelligenza animale"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Robotaxis use Artificial Intelligence (AI) - the same kind of technology that AIKO uses!",
+        "explanationIt": "I robotaxi usano l'Intelligenza Artificiale (AI) - la stessa tecnologia che usa AIKO!"
+      }
+    ]
+  },
+  {
+    "chapterId": 2,
+    "questions": [
+      {
+        "question": "How many cameras does a robotaxi have?",
+        "questionIt": "Quante telecamere ha un robotaxi?",
+        "options": [
+          "Two cameras",
+          "Four cameras",
+          "Eight cameras",
+          "One hundred cameras"
+        ],
+        "optionsIt": [
+          "Due telecamere",
+          "Quattro telecamere",
+          "Otto telecamere",
+          "Cento telecamere"
+        ],
+        "correctAnswer": 2,
+        "explanation": "A robotaxi has eight cameras that can see in every direction - even behind!",
+        "explanationIt": "Un robotaxi ha otto telecamere che possono vedere in ogni direzione - anche dietro!"
+      },
+      {
+        "question": "What does LiDAR do?",
+        "questionIt": "Cosa fa il LiDAR?",
+        "options": [
+          "It plays music",
+          "It shoots laser beams to create 3D maps",
+          "It makes the car go faster",
+          "It talks to other cars"
+        ],
+        "optionsIt": [
+          "Suona musica",
+          "Spara raggi laser per creare mappe 3D",
+          "Fa andare la macchina più veloce",
+          "Parla con altre macchine"
+        ],
+        "correctAnswer": 1,
+        "explanation": "LiDAR shoots invisible laser beams that bounce back to create a 3D map of everything around the car.",
+        "explanationIt": "Il LiDAR spara raggi laser invisibili che rimbalzano per creare una mappa 3D di tutto ciò che circonda la macchina."
+      },
+      {
+        "question": "How often does LiDAR create a new map?",
+        "questionIt": "Quanto spesso il LiDAR crea una nuova mappa?",
+        "options": [
+          "Once a day",
+          "Once per minute",
+          "Sixty times every second",
+          "Only when the car starts"
+        ],
+        "optionsIt": [
+          "Una volta al giorno",
+          "Una volta al minuto",
+          "Sessanta volte al secondo",
+          "Solo quando la macchina parte"
+        ],
+        "correctAnswer": 2,
+        "explanation": "LiDAR creates a new 3D map sixty times every second! That's incredibly fast.",
+        "explanationIt": "Il LiDAR crea una nuova mappa 3D sessanta volte al secondo! È incredibilmente veloce."
+      }
+    ]
+  },
+  {
+    "chapterId": 3,
+    "questions": [
+      {
+        "question": "Does the robotaxi have a steering wheel?",
+        "questionIt": "Il robotaxi ha un volante?",
+        "options": [
+          "Yes, a big one",
+          "Yes, but it's hidden",
+          "No, it doesn't need one",
+          "Yes, but only for decoration"
+        ],
+        "optionsIt": [
+          "Sì, uno grande",
+          "Sì, ma è nascosto",
+          "No, non ne ha bisogno",
+          "Sì, ma solo per decorazione"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The robotaxi doesn't have a steering wheel because the AI drives - no human needs to steer!",
+        "explanationIt": "Il robotaxi non ha un volante perché guida l'AI - nessun umano deve sterzare!"
+      },
+      {
+        "question": "How did the car learn to drive?",
+        "questionIt": "Come ha imparato a guidare la macchina?",
+        "options": [
+          "By watching movies about cars",
+          "By practicing millions and millions of times",
+          "By reading driving books",
+          "It was born knowing how to drive"
+        ],
+        "optionsIt": [
+          "Guardando film sulle macchine",
+          "Esercitandosi milioni e milioni di volte",
+          "Leggendo libri sulla guida",
+          "È nata sapendo guidare"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The robotaxi learned by practicing millions of driving scenarios - just like AIKO learned to see by looking at thousands of pictures!",
+        "explanationIt": "Il robotaxi ha imparato esercitandosi in milioni di scenari di guida - proprio come AIKO ha imparato a vedere guardando migliaia di foto!"
+      },
+      {
+        "question": "What does the car's 'computer brain' do?",
+        "questionIt": "Cosa fa il 'cervello computerizzato' della macchina?",
+        "options": [
+          "It plays games",
+          "It decides what to do next while driving",
+          "It makes phone calls",
+          "It takes pictures of passengers"
+        ],
+        "optionsIt": [
+          "Gioca ai videogiochi",
+          "Decide cosa fare dopo mentre guida",
+          "Fa telefonate",
+          "Scatta foto ai passeggeri"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The computer brain takes all the information from the sensors and decides what the car should do next.",
+        "explanationIt": "Il cervello computerizzato prende tutte le informazioni dai sensori e decide cosa deve fare la macchina."
+      }
+    ]
+  },
+  {
+    "chapterId": 4,
+    "questions": [
+      {
+        "question": "How does the robotaxi 'see' other cars?",
+        "questionIt": "Come 'vede' il robotaxi le altre macchine?",
+        "options": [
+          "As pretty colors",
+          "As boxes with speed and direction",
+          "As friendly faces",
+          "It can't see other cars"
+        ],
+        "optionsIt": [
+          "Come bei colori",
+          "Come riquadri con velocità e direzione",
+          "Come facce amichevoli",
+          "Non può vedere altre macchine"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The robotaxi sees other cars as objects with speed and direction, not as colors and shapes like humans do.",
+        "explanationIt": "Il robotaxi vede le altre macchine come oggetti con velocità e direzione, non come colori e forme come gli umani."
+      },
+      {
+        "question": "What does the robotaxi always do?",
+        "questionIt": "Cosa fa sempre il robotaxi?",
+        "options": [
+          "It plays music loudly",
+          "It predicts what will happen next",
+          "It goes very fast",
+          "It honks the horn"
+        ],
+        "optionsIt": [
+          "Suona musica a tutto volume",
+          "Prevede cosa succederà dopo",
+          "Va molto veloce",
+          "Suona il clacson"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The robotaxi is always predicting what will happen next - it thinks ahead many times per second!",
+        "explanationIt": "Il robotaxi sta sempre prevedendo cosa succederà dopo - pensa in anticipo molte volte al secondo!"
+      },
+      {
+        "question": "What do the dotted lines on the screen show?",
+        "questionIt": "Cosa mostrano le linee tratteggiate sullo schermo?",
+        "options": [
+          "Where the car has been",
+          "Where things might move",
+          "Pretty decorations",
+          "The car's favorite route"
+        ],
+        "optionsIt": [
+          "Dove è stata la macchina",
+          "Dove potrebbero muoversi le cose",
+          "Decorazioni belle",
+          "Il percorso preferito della macchina"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The dotted lines show where cyclists, pedestrians, and other cars might move next.",
+        "explanationIt": "Le linee tratteggiate mostrano dove ciclisti, pedoni e altre macchine potrebbero muoversi."
+      }
+    ]
+  },
+  {
+    "chapterId": 5,
+    "questions": [
+      {
+        "question": "What is the MOST important rule for a robotaxi?",
+        "questionIt": "Qual è la regola PIÙ importante per un robotaxi?",
+        "options": [
+          "Go as fast as possible",
+          "Play nice music",
+          "Never hurt anyone",
+          "Look pretty"
+        ],
+        "optionsIt": [
+          "Andare più veloce possibile",
+          "Suonare bella musica",
+          "Mai fare del male a nessuno",
+          "Essere bella"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Safety is the #1 priority! The most important rule is to NEVER hurt anyone.",
+        "explanationIt": "La sicurezza è la priorità #1! La regola più importante è MAI fare del male a nessuno."
+      },
+      {
+        "question": "What happens if one camera stops working?",
+        "questionIt": "Cosa succede se una telecamera smette di funzionare?",
+        "options": [
+          "The car crashes",
+          "The car has 7 more cameras as backup",
+          "Someone has to drive",
+          "The car starts flying"
+        ],
+        "optionsIt": [
+          "La macchina si schianta",
+          "La macchina ha altre 7 telecamere di backup",
+          "Qualcuno deve guidare",
+          "La macchina inizia a volare"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The robotaxi has backup systems! If one camera fails, there are seven more to keep it safe.",
+        "explanationIt": "Il robotaxi ha sistemi di backup! Se una telecamera smette di funzionare, ce ne sono altre sette per tenerla al sicuro."
+      },
+      {
+        "question": "Why did the car wait extra seconds after the children crossed?",
+        "questionIt": "Perché la macchina ha aspettato secondi extra dopo che i bambini hanno attraversato?",
+        "options": [
+          "It was tired",
+          "It was playing a game",
+          "Just to be extra safe",
+          "It forgot where to go"
+        ],
+        "optionsIt": [
+          "Era stanca",
+          "Stava giocando",
+          "Solo per essere più sicura",
+          "Ha dimenticato dove andare"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The car waited extra seconds just to be sure everyone was safe. Safety always comes first!",
+        "explanationIt": "La macchina ha aspettato secondi extra solo per assicurarsi che tutti fossero al sicuro. La sicurezza viene sempre prima!"
+      }
+    ]
+  },
+  {
+    "chapterId": 6,
+    "questions": [
+      {
+        "question": "Who makes robotaxis so smart?",
+        "questionIt": "Chi rende i robotaxi così intelligenti?",
+        "options": [
+          "One very smart person",
+          "Thousands of people working together",
+          "Magic",
+          "Other robots"
+        ],
+        "optionsIt": [
+          "Una persona molto intelligente",
+          "Migliaia di persone che lavorano insieme",
+          "La magia",
+          "Altri robot"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Thousands of people - engineers, designers, safety experts, mechanics - all work together to make robotaxis smart and safe!",
+        "explanationIt": "Migliaia di persone - ingegneri, designer, esperti di sicurezza, meccanici - lavorano tutti insieme per rendere i robotaxi intelligenti e sicuri!"
+      },
+      {
+        "question": "Even without a driver, who is still in charge?",
+        "questionIt": "Anche senza un autista, chi è ancora al comando?",
+        "options": [
+          "The passengers",
+          "The robot",
+          "Humans who build and watch over it",
+          "No one"
+        ],
+        "optionsIt": [
+          "I passeggeri",
+          "Il robot",
+          "Gli umani che lo costruiscono e controllano",
+          "Nessuno"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Humans are still in charge - the people who built it, test it, and watch over all the robotaxis.",
+        "explanationIt": "Gli umani sono ancora al comando - le persone che l'hanno costruita, la testano e controllano tutti i robotaxi."
+      },
+      {
+        "question": "What did Sofia call the relationship between humans and AI?",
+        "questionIt": "Come ha chiamato Sofia il rapporto tra umani e AI?",
+        "options": [
+          "A competition",
+          "A fight",
+          "Teamwork",
+          "A game"
+        ],
+        "optionsIt": [
+          "Una competizione",
+          "Una lotta",
+          "Lavoro di squadra",
+          "Un gioco"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sofia called it teamwork - humans and AI working together. The AI drives, and humans make sure it drives well!",
+        "explanationIt": "Sofia l'ha chiamato lavoro di squadra - umani e AI che lavorano insieme. L'AI guida, e gli umani si assicurano che guidi bene!"
+      }
+    ]
+  },
+  {
+    "chapterId": 7,
+    "questions": [
+      {
+        "question": "What could happen if all cars drove themselves?",
+        "questionIt": "Cosa potrebbe succedere se tutte le macchine si guidassero da sole?",
+        "options": [
+          "More traffic jams",
+          "Fewer crashes and more parks",
+          "Cars would stop working",
+          "Everyone would walk"
+        ],
+        "optionsIt": [
+          "Più ingorghi",
+          "Meno incidenti e più parchi",
+          "Le macchine smetterebbero di funzionare",
+          "Tutti camminerebbero"
+        ],
+        "correctAnswer": 1,
+        "explanation": "With self-driving cars, there could be fewer crashes (no human mistakes), less traffic, and cities could have more parks!",
+        "explanationIt": "Con le auto a guida autonoma, potrebbero esserci meno incidenti (niente errori umani), meno traffico, e le città potrebbero avere più parchi!"
+      },
+      {
+        "question": "Who gets to decide how technology is used?",
+        "questionIt": "Chi decide come viene usata la tecnologia?",
+        "options": [
+          "Only scientists",
+          "Only robots",
+          "Humans - all of us",
+          "No one can decide"
+        ],
+        "optionsIt": [
+          "Solo gli scienziati",
+          "Solo i robot",
+          "Gli umani - tutti noi",
+          "Nessuno può decidere"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Humans decide how to use technology - we must choose to use it wisely and share it fairly with everyone!",
+        "explanationIt": "Gli umani decidono come usare la tecnologia - dobbiamo scegliere di usarla saggiamente e condividerla equamente con tutti!"
+      },
+      {
+        "question": "What makes humans special, according to AIKO?",
+        "questionIt": "Cosa rende speciali gli umani, secondo AIKO?",
+        "options": [
+          "They can drive cars",
+          "They dream of how the world could be better",
+          "They have two eyes",
+          "They like robots"
+        ],
+        "optionsIt": [
+          "Sanno guidare le macchine",
+          "Sognano come il mondo potrebbe essere migliore",
+          "Hanno due occhi",
+          "Gli piacciono i robot"
+        ],
+        "correctAnswer": 1,
+        "explanation": "AIKO said humans are special because they don't just accept the world as it is - they dream of how it could be better!",
+        "explanationIt": "AIKO ha detto che gli umani sono speciali perché non accettano solo il mondo com'è - sognano come potrebbe essere migliore!"
+      }
+    ]
+  },
+  {
+    "chapterId": 8,
+    "questions": [
+      {
+        "question": "What did the robotaxi's lights do when Sofia said 'thank you'?",
+        "questionIt": "Cosa hanno fatto le luci del robotaxi quando Sofia ha detto 'grazie'?",
+        "options": [
+          "They turned off",
+          "They blinked like a wink",
+          "They changed colors",
+          "Nothing happened"
+        ],
+        "optionsIt": [
+          "Si sono spente",
+          "Hanno lampeggiato come un occhiolino",
+          "Hanno cambiato colore",
+          "Non è successo niente"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The car's lights blinked once - almost like a friendly wink - before driving away!",
+        "explanationIt": "Le luci della macchina hanno lampeggiato una volta - quasi come un occhiolino amichevole - prima di andare via!"
+      },
+      {
+        "question": "What did Sofia realize about the future?",
+        "questionIt": "Cosa ha capito Sofia sul futuro?",
+        "options": [
+          "It's scary",
+          "It's already here and we help build it",
+          "It will never come",
+          "Only adults can change it"
+        ],
+        "optionsIt": [
+          "Fa paura",
+          "È già qui e noi aiutiamo a costruirlo",
+          "Non arriverà mai",
+          "Solo gli adulti possono cambiarlo"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sofia realized the future is already here, and people like her - everyone! - gets to help build what comes next.",
+        "explanationIt": "Sofia ha capito che il futuro è già qui, e persone come lei - tutti! - possono aiutare a costruire ciò che verrà."
+      },
+      {
+        "question": "What was AIKO's final word about building the future?",
+        "questionIt": "Qual è stata l'ultima parola di AIKO sul costruire il futuro?",
+        "options": [
+          "Alone",
+          "Maybe",
+          "Together",
+          "Someday"
+        ],
+        "optionsIt": [
+          "Da soli",
+          "Forse",
+          "Insieme",
+          "Un giorno"
+        ],
+        "correctAnswer": 2,
+        "explanation": "AIKO said 'Together' - humans and AI working together can build a better future!",
+        "explanationIt": "AIKO ha detto 'Insieme' - umani e AI che lavorano insieme possono costruire un futuro migliore!"
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "A Special Trip",
+    "titleIt": "Un Viaggio Speciale",
+    "image": "chapter-01",
+    "content": "It was a sunny Saturday morning.\nMom had a surprise for Sofia.\n\n\"Today, we're going to Grandma's house,\" said Mom.\n\"But we're not taking our car.\"\n\nSofia looked confused. \"Then how will we get there?\"\n\nMom smiled and pointed at her phone.\n\"I called a special taxi. Look!\"\n\nA white car pulled up in front of their house.\nIt was smooth and quiet.\nAnd when Sofia looked through the window...\n\n\"Mom! There's no one driving!\"\n\nAIKO's blue eyes blinked with excitement.\n\"Sofia, this is a ROBOTAXI.\nA car that drives itself.\nUsing Artificial Intelligence - just like me!\"",
+    "contentIt": "Era un soleggiato sabato mattina.\nLa mamma aveva una sorpresa per Sofia.\n\n\"Oggi andiamo dalla nonna,\" disse la mamma.\n\"Ma non prendiamo la nostra macchina.\"\n\nSofia sembrava confusa. \"E allora come ci arriviamo?\"\n\nLa mamma sorrise e indicò il suo telefono.\n\"Ho chiamato un taxi speciale. Guarda!\"\n\nUna macchina bianca si fermò davanti a casa loro.\nEra liscia e silenziosa.\nE quando Sofia guardò attraverso il finestrino...\n\n\"Mamma! Non c'è nessuno che guida!\"\n\nGli occhi blu di AIKO lampeggiarono di entusiasmo.\n\"Sofia, questo è un ROBOTAXI.\nUna macchina che si guida da sola.\nUsando l'Intelligenza Artificiale - proprio come me!\"",
+    "keyPoints": [
+      "A robotaxi is a car that drives itself",
+      "It uses Artificial Intelligence (AI)",
+      "There's no human driver inside"
+    ],
+    "keyPointsIt": [
+      "Un robotaxi è una macchina che si guida da sola",
+      "Usa l'Intelligenza Artificiale (AI)",
+      "Non c'è un autista umano dentro"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "A Car with Robot Eyes",
+    "titleIt": "Una Macchina con Occhi da Robot",
+    "image": "chapter-02",
+    "content": "Before getting in, Sofia walked around the car.\nShe noticed strange things on it.\n\n\"What are all these bumps and cameras?\" she asked.\n\nAIKO floated closer to explain.\n\n\"These are the car's EYES.\nSee these cameras? There are eight of them!\nThey can see in every direction at once.\nYou only have two eyes looking forward.\nThis car can see all around - even behind!\"\n\nSofia pointed at a small spinning thing on the roof.\n\"What about that?\"\n\n\"That's called LiDAR,\" said AIKO.\n\"It shoots invisible laser beams in all directions.\nThe beams bounce back from everything nearby -\ntrees, people, other cars, even a tiny cat crossing the street.\nIt creates a 3D map of everything around the car.\nSixty times every second!\"\n\n\"Wow,\" whispered Sofia. \"It sees MORE than we do.\"\n\n\"In some ways, yes. But it doesn't UNDERSTAND\nwhat it sees the way you do.\nIt just collects information.\"",
+    "contentIt": "Prima di salire, Sofia camminò intorno alla macchina.\nNotò delle cose strane su di essa.\n\n\"Cosa sono tutti questi dossi e telecamere?\" chiese.\n\nAIKO si avvicinò fluttuando per spiegare.\n\n\"Questi sono gli OCCHI della macchina.\nVedi queste telecamere? Ce ne sono otto!\nPossono vedere in ogni direzione contemporaneamente.\nTu hai solo due occhi che guardano avanti.\nQuesta macchina può vedere tutto intorno - anche dietro!\"\n\nSofia indicò una piccola cosa che girava sul tetto.\n\"E quello cos'è?\"\n\n\"Si chiama LiDAR,\" disse AIKO.\n\"Spara raggi laser invisibili in tutte le direzioni.\nI raggi rimbalzano da tutto ciò che è vicino -\nalberi, persone, altre macchine, persino un gattino che attraversa la strada.\nCrea una mappa 3D di tutto ciò che circonda la macchina.\nSessanta volte al secondo!\"\n\n\"Wow,\" sussurrò Sofia. \"Vede PIÙ di noi.\"\n\n\"In un certo senso, sì. Ma non CAPISCE\nciò che vede come fai tu.\nRaccoglie solo informazioni.\"",
+    "keyPoints": [
+      "Robotaxis have 8 cameras that see in all directions",
+      "LiDAR uses laser beams to create 3D maps",
+      "The car collects information but doesn't truly 'understand'"
+    ],
+    "keyPointsIt": [
+      "I robotaxi hanno 8 telecamere che vedono in ogni direzione",
+      "Il LiDAR usa raggi laser per creare mappe 3D",
+      "La macchina raccoglie informazioni ma non 'capisce' davvero"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Brain Inside",
+    "titleIt": "Il Cervello Dentro",
+    "image": "chapter-03",
+    "content": "They climbed inside.\nThe car was cozy, with soft seats and big windows.\n\n\"Welcome aboard,\" said a friendly voice.\n\"I will take you to Grandma's house safely.\"\n\nSofia looked around. \"Where's the steering wheel?\"\n\n\"There isn't one,\" said Mom. \"This car doesn't need it.\"\n\nAIKO explained: \"The car has a computer brain.\nIt takes all the information from the cameras and LiDAR,\nand it thinks: What should I do next?\"\n\n\"But how does it KNOW what to do?\" asked Sofia.\n\n\"Remember how I learned to see cats\nby looking at thousands of pictures?\"\n\nSofia nodded.\n\n\"This car learned the same way.\nIt practiced driving millions and millions of times.\nIt learned what to do when a light turns red.\nWhat to do when someone crosses the street.\nWhat to do when another car gets too close.\nIt learned from every situation it could imagine.\"\n\nThe car started moving smoothly.\nSofia didn't even feel it start.",
+    "contentIt": "Salirono a bordo.\nLa macchina era accogliente, con sedili morbidi e grandi finestrini.\n\n\"Benvenuti a bordo,\" disse una voce amichevole.\n\"Vi porterò dalla nonna in sicurezza.\"\n\nSofia si guardò intorno. \"Dov'è il volante?\"\n\n\"Non c'è,\" disse la mamma. \"Questa macchina non ne ha bisogno.\"\n\nAIKO spiegò: \"La macchina ha un cervello computerizzato.\nPrende tutte le informazioni dalle telecamere e dal LiDAR,\ne pensa: Cosa devo fare adesso?\"\n\n\"Ma come FA a sapere cosa fare?\" chiese Sofia.\n\n\"Ricordi come ho imparato a riconoscere i gatti\nguardando migliaia di foto?\"\n\nSofia annuì.\n\n\"Questa macchina ha imparato allo stesso modo.\nSi è esercitata a guidare milioni e milioni di volte.\nHa imparato cosa fare quando un semaforo diventa rosso.\nCosa fare quando qualcuno attraversa la strada.\nCosa fare quando un'altra macchina si avvicina troppo.\nHa imparato da ogni situazione che poteva immaginare.\"\n\nLa macchina iniziò a muoversi dolcemente.\nSofia non sentì nemmeno la partenza.",
+    "keyPoints": [
+      "The robotaxi has a computer 'brain' that makes decisions",
+      "It learned by practicing millions of driving scenarios",
+      "No steering wheel is needed - the AI drives"
+    ],
+    "keyPointsIt": [
+      "Il robotaxi ha un 'cervello' computerizzato che prende decisioni",
+      "Ha imparato esercitandosi in milioni di scenari di guida",
+      "Non serve il volante - guida l'AI"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Seeing the Invisible",
+    "titleIt": "Vedere l'Invisibile",
+    "image": "chapter-04",
+    "content": "As they drove, a screen in front showed something magical.\n\nIt showed the street - but different.\nEvery car had a colored box around it.\nEvery person had a glowing outline.\nDotted lines showed where things were moving.\n\n\"What is this?\" asked Sofia.\n\n\"This is how the car SEES the world,\" said AIKO.\n\"It doesn't see colors and shapes like you do.\nIt sees objects and movements.\nEvery car is a box with a speed and direction.\nEvery person is a point that might move.\nThe car is always predicting: What will happen next?\"\n\nMom pointed at a cyclist on the side of the road.\nOn the screen, a dotted line showed where the cyclist might go.\n\n\"See? The car is already planning what to do\nif the cyclist moves into the road.\"\n\n\"It thinks ahead!\" said Sofia.\n\n\"Always,\" said AIKO. \"Many times per second.\nIt asks: What could go wrong?\nAnd it has a plan for everything.\"",
+    "contentIt": "Mentre guidavano, uno schermo davanti mostrò qualcosa di magico.\n\nMostrava la strada - ma in modo diverso.\nOgni macchina aveva un riquadro colorato intorno.\nOgni persona aveva un contorno luminoso.\nLinee tratteggiate mostravano dove si muovevano le cose.\n\n\"Cos'è questo?\" chiese Sofia.\n\n\"Questo è come la macchina VEDE il mondo,\" disse AIKO.\n\"Non vede colori e forme come te.\nVede oggetti e movimenti.\nOgni macchina è un riquadro con una velocità e una direzione.\nOgni persona è un punto che potrebbe muoversi.\nLa macchina sta sempre prevedendo: Cosa succederà dopo?\"\n\nLa mamma indicò un ciclista sul lato della strada.\nSullo schermo, una linea tratteggiata mostrava dove potrebbe andare il ciclista.\n\n\"Vedi? La macchina sta già pianificando cosa fare\nse il ciclista entra in strada.\"\n\n\"Pensa in anticipo!\" disse Sofia.\n\n\"Sempre,\" disse AIKO. \"Molte volte al secondo.\nSi chiede: Cosa potrebbe andare storto?\nE ha un piano per tutto.\"",
+    "keyPoints": [
+      "The car sees the world as objects with speeds and directions",
+      "It predicts where everything might move",
+      "It plans ahead many times per second"
+    ],
+    "keyPointsIt": [
+      "La macchina vede il mondo come oggetti con velocità e direzioni",
+      "Prevede dove potrebbe muoversi ogni cosa",
+      "Pianifica in anticipo molte volte al secondo"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Safety First",
+    "titleIt": "La Sicurezza Prima di Tutto",
+    "image": "chapter-05",
+    "content": "Suddenly, the car slowed down and stopped.\n\n\"Why did we stop?\" asked Sofia.\n\nShe looked out the window.\nA group of children was crossing the street.\nOne of them dropped a ball, and it rolled toward the road.\n\nThe car stayed completely still.\nIt waited until every child was safely across.\nThen it waited three more seconds - just to be sure.\n\n\"The car is very careful,\" said Mom.\n\nAIKO nodded. \"The most important rule for a robotaxi is:\nNEVER hurt anyone.\nIf there's even a tiny chance something could be dangerous,\nthe car will stop and wait.\nIt's not in a hurry. Safety always comes first.\"\n\n\"But what if something breaks?\" asked Sofia.\n\"What if a camera stops working?\"\n\n\"Good question! The car has BACKUP systems.\nIf one camera fails, there are seven more.\nIf the main computer has a problem,\na second computer takes over immediately.\nAnd if something really goes wrong,\nthe car will safely pull over and stop.\"",
+    "contentIt": "Improvvisamente, la macchina rallentò e si fermò.\n\n\"Perché ci siamo fermati?\" chiese Sofia.\n\nGuardò fuori dal finestrino.\nUn gruppo di bambini stava attraversando la strada.\nUno di loro fece cadere una palla, che rotolò verso la strada.\n\nLa macchina rimase completamente ferma.\nAspettò che tutti i bambini fossero passati in sicurezza.\nPoi aspettò altri tre secondi - solo per essere sicura.\n\n\"La macchina è molto attenta,\" disse la mamma.\n\nAIKO annuì. \"La regola più importante per un robotaxi è:\nMAI fare del male a nessuno.\nSe c'è anche una minima possibilità che qualcosa sia pericoloso,\nla macchina si ferma e aspetta.\nNon ha fretta. La sicurezza viene sempre prima.\"\n\n\"Ma se qualcosa si rompe?\" chiese Sofia.\n\"Se una telecamera smette di funzionare?\"\n\n\"Bella domanda! La macchina ha sistemi di BACKUP.\nSe una telecamera smette di funzionare, ce ne sono altre sette.\nSe il computer principale ha un problema,\nun secondo computer prende il controllo immediatamente.\nE se qualcosa va davvero storto,\nla macchina si accosta in sicurezza e si ferma.\"",
+    "keyPoints": [
+      "Safety is the #1 priority - never hurt anyone",
+      "The car has backup systems for everything",
+      "If something goes wrong, it safely stops"
+    ],
+    "keyPointsIt": [
+      "La sicurezza è la priorità #1 - mai fare del male a nessuno",
+      "La macchina ha sistemi di backup per tutto",
+      "Se qualcosa va storto, si ferma in sicurezza"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "No Driver, But Many Helpers",
+    "titleIt": "Nessun Autista, Ma Tanti Aiutanti",
+    "image": "chapter-06",
+    "content": "\"So the car drives itself,\" said Sofia.\n\"But who MADE it so smart?\"\n\n\"Thousands of people,\" said AIKO.\n\n\"Really?\"\n\n\"Really. Engineers wrote the code that lets the car think.\nArtists designed the maps it follows.\nSafety experts tested it millions of times.\nMechanics keep every car in perfect condition.\nAnd somewhere, right now, people are watching\nto make sure all the robotaxis are doing okay.\"\n\nMom added: \"Even though there's no driver in this car,\nhumans are still in charge.\nThe people who built it, who test it, who watch over it.\"\n\n\"So it's like... teamwork?\" asked Sofia.\n\n\"The biggest teamwork ever,\" said AIKO.\n\"Humans and AI, working together.\nThe AI does the driving.\nThe humans make sure it drives WELL.\"",
+    "contentIt": "\"Quindi la macchina si guida da sola,\" disse Sofia.\n\"Ma chi l'ha RESA così intelligente?\"\n\n\"Migliaia di persone,\" disse AIKO.\n\n\"Davvero?\"\n\n\"Davvero. Gli ingegneri hanno scritto il codice che permette alla macchina di pensare.\nI designer hanno creato le mappe che segue.\nGli esperti di sicurezza l'hanno testata milioni di volte.\nI meccanici tengono ogni macchina in perfette condizioni.\nE da qualche parte, proprio adesso, delle persone stanno controllando\nper assicurarsi che tutti i robotaxi stiano bene.\"\n\nLa mamma aggiunse: \"Anche se non c'è un autista in questa macchina,\ngli umani sono ancora al comando.\nLe persone che l'hanno costruita, che la testano, che la controllano.\"\n\n\"Quindi è come... lavoro di squadra?\" chiese Sofia.\n\n\"Il più grande lavoro di squadra di sempre,\" disse AIKO.\n\"Umani e AI, che lavorano insieme.\nL'AI guida.\nGli umani si assicurano che guidi BENE.\"",
+    "keyPoints": [
+      "Thousands of people work to make robotaxis safe",
+      "Engineers, designers, safety experts, and mechanics all help",
+      "Humans and AI work together as a team"
+    ],
+    "keyPointsIt": [
+      "Migliaia di persone lavorano per rendere sicuri i robotaxi",
+      "Ingegneri, designer, esperti di sicurezza e meccanici aiutano tutti",
+      "Umani e AI lavorano insieme come una squadra"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Dreaming of Tomorrow",
+    "titleIt": "Sognando il Domani",
+    "image": "chapter-07",
+    "content": "The ride was almost over.\nSofia could see Grandma's neighborhood.\n\n\"AIKO,\" she said, \"what will the future be like?\nWill ALL cars drive themselves?\"\n\n\"Maybe,\" said AIKO. \"Someday.\nImagine a world where no one crashes because of mistakes.\nWhere old people and kids can travel anywhere, safely.\nWhere cars talk to each other so there are no traffic jams.\nWhere cities have more parks because we need fewer parking lots.\"\n\n\"That sounds amazing,\" said Sofia.\n\n\"It could be. But it's up to humans to decide.\nTechnology can help.\nBut people must choose to use it wisely.\nTo share it fairly.\nTo make sure it helps everyone, not just a few.\"\n\nSofia thought about this.\n\"I want to help build that future.\"\n\nAIKO's eyes glowed warmly.\n\"I know you will, Sofia.\nThat's what makes humans so special.\nYou don't just accept the world as it is.\nYou dream of how it could be better.\"",
+    "contentIt": "Il viaggio era quasi finito.\nSofia poteva vedere il quartiere della nonna.\n\n\"AIKO,\" disse, \"come sarà il futuro?\nTutte le macchine si guideranno da sole?\"\n\n\"Forse,\" disse AIKO. \"Un giorno.\nImmagina un mondo dove nessuno ha incidenti per errori.\nDove anziani e bambini possono viaggiare ovunque, in sicurezza.\nDove le macchine parlano tra loro così non ci sono ingorghi.\nDove le città hanno più parchi perché servono meno parcheggi.\"\n\n\"Sembra fantastico,\" disse Sofia.\n\n\"Potrebbe esserlo. Ma sta agli umani decidere.\nLa tecnologia può aiutare.\nMa le persone devono scegliere di usarla saggiamente.\nDi condividerla equamente.\nDi assicurarsi che aiuti tutti, non solo pochi.\"\n\nSofia ci pensò.\n\"Voglio aiutare a costruire quel futuro.\"\n\nGli occhi di AIKO brillarono calorosamente.\n\"So che lo farai, Sofia.\nÈ questo che rende gli umani così speciali.\nNon accettate solo il mondo com'è.\nSognate come potrebbe essere migliore.\"",
+    "keyPoints": [
+      "Self-driving cars could make travel safer for everyone",
+      "Cities could have more parks and less traffic",
+      "Humans decide how to use technology wisely"
+    ],
+    "keyPointsIt": [
+      "Le auto a guida autonoma potrebbero rendere i viaggi più sicuri per tutti",
+      "Le città potrebbero avere più parchi e meno traffico",
+      "Gli umani decidono come usare la tecnologia saggiamente"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Arriving Safely",
+    "titleIt": "Arrivati in Sicurezza",
+    "image": "chapter-08",
+    "content": "The car stopped gently in front of Grandma's house.\n\n\"You have arrived,\" said the friendly voice.\n\"Thank you for riding with us. Have a wonderful day!\"\n\nGrandma was already waving from the porch.\n\nSofia stepped out and looked back at the robotaxi.\n\"Thank you, car!\"\n\nThe car's lights blinked once - almost like a wink.\nThen it drove away quietly to pick up someone else.\n\n\"So,\" said Mom, \"what did you think?\"\n\nSofia smiled her biggest smile.\n\"I think the future is already here.\nAnd it's pretty amazing.\"\n\nShe looked at AIKO.\n\"But you know what's even more amazing?\"\n\n\"What?\" asked AIKO.\n\n\"That people like us get to decide what comes next.\nWe're not just passengers.\nWe're the ones who will build tomorrow.\"\n\nAIKO blinked happily.\n\"Together.\"\n\n\"Together,\" Sofia agreed.\n\nAnd they went inside to tell Grandma\nall about their incredible adventure.",
+    "contentIt": "La macchina si fermò dolcemente davanti a casa della nonna.\n\n\"Siete arrivati,\" disse la voce amichevole.\n\"Grazie per aver viaggiato con noi. Buona giornata!\"\n\nLa nonna stava già salutando dalla veranda.\n\nSofia scese e guardò il robotaxi.\n\"Grazie, macchina!\"\n\nLe luci della macchina lampeggiarono una volta - quasi come un occhiolino.\nPoi partì silenziosamente per andare a prendere qualcun altro.\n\n\"Allora,\" disse la mamma, \"cosa ne pensi?\"\n\nSofia sorrise il suo sorriso più grande.\n\"Penso che il futuro sia già qui.\nEd è davvero incredibile.\"\n\nGuardò AIKO.\n\"Ma sai cosa è ancora più incredibile?\"\n\n\"Cosa?\" chiese AIKO.\n\n\"Che persone come noi decidono cosa viene dopo.\nNon siamo solo passeggeri.\nSiamo quelli che costruiranno il domani.\"\n\nAIKO lampeggiò felice.\n\"Insieme.\"\n\n\"Insieme,\" concordò Sofia.\n\nE andarono dentro a raccontare alla nonna\ntutta la loro incredibile avventura.",
+    "keyPoints": [
+      "The future of transportation is already beginning",
+      "We all get to decide how technology shapes our world",
+      "Humans and AI can build a better future together"
+    ],
+    "keyPointsIt": [
+      "Il futuro dei trasporti sta già iniziando",
+      "Tutti noi possiamo decidere come la tecnologia plasma il nostro mondo",
+      "Umani e AI possono costruire un futuro migliore insieme"
+    ]
+  }
+]
